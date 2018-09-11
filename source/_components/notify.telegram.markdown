@@ -65,6 +65,8 @@ $ python3
 123456789
 ```
 
+And another way to get your chat ID is by talking to the @myidbot on telegram and send the command '/getid'
+
 To enable Telegram notifications in your installation, add the following to your `configuration.yaml` file:
 
 ```yaml
